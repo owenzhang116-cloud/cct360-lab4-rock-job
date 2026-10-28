@@ -1,0 +1,46 @@
+body {
+  font-family: Arial;
+  font-size: 16px;
+  text-align: center;
+  background-color: white;
+  color: black;
+  margin: 25px 15px;
+}
+
+h1 {
+  font-size: 30px;
+}
+
+h2 {
+  font-size: 22px;
+}
+
+p {
+  line-height: 1.5;
+}
+
+#rock {
+  width: 200px;
+  max-width: 90%;
+  height: auto;
+}
+
+#interview {
+  max-width: 600px;
+  margin: 20px auto;
+  padding: 15px;
+  border: 1px solid gray;
+  background-color: whitesmoke;
+}
+
+button {
+  font-family: Arial;
+  font-size: 16px;
+  margin: 5px;
+  padding: 8px 12px;
+}
+
+#credit {
+  font-size: 13px;
+  margin-top: 25px;
+}
